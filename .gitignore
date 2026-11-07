@@ -1,0 +1,18 @@
+# Dados reais de pacientes NUNCA sobem (LGPD). So os ficticios de dados_exemplo/.
+*.xlsx
+*.csv
+!dados_exemplo/*.xlsx
+!dados_exemplo/*.csv
+dados/
+raw/
+
+# Ambiente
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
