@@ -1,0 +1,272 @@
+﻿patientReport.headers.id,patientReport.headers.full_name,patientReport.headers.gender,patientReport.headers.birth_date,patientReport.headers.phone_number,patientReport.headers.email,patientReport.headers.is_whatsapp_validated,patientReport.headers.last_service_provided,patientReport.headers.customer_status,patientReport.headers.service_end_date,patientReport.headers.service_days_remaining,patientReport.headers.service_duration_days,patientReport.headers.questionnaires_sent,patientReport.headers.total_responses,patientReport.headers.response_rate_percentage,patientReport.headers.last_response_date
+1000,Ana Martins Lima,Feminine,1974-03-24,(21) 90000-0000,paciente000@exemplo.com,No,Start,finished,2026-02-24,0,30,10,5,50.0,2026-02-09
+1001,Ana Souza Gomes,Feminine,2005-11-23,21900000001,paciente001@exemplo.com,Yes,Start,finished,2026-05-12,0,30,2,1,50.0,2026-04-26
+1002,Mariana Martins Dias,Feminine,1973-06-04,(21) 90000-0002,paciente002@exemplo.com,No,Start,finished,2025-09-28,0,30,12,4,33.3,2025-09-21
+1003,Patrícia Cardoso Souza,Feminine,1978-11-20,21 00000003,paciente003@exemplo.com,No,Keep,finished,2024-12-18,0,90,1,1,100.0,2024-12-05
+1004,henrique costa pereira,Masculine,,21 00000004,paciente004@exemplo.com,No,Keep,finished,2025-08-18,0,90,10,10,100.0,2025-08-15
+1005,Gabriela Souza Lima,Feminine,1970-08-13,(21) 90000-0005,,Yes,Keep,finished,2026-11-03,0,90,7,2,28.6,2026-10-15
+1008,Tatiana Cardoso Barbosa,Feminine,1967-03-21,(21) 90000-0008,paciente008@exemplo.com,Yes,Keep,finished,2026-04-25,0,90,0,0,0.0,
+1010,Gabriela Silva Costa,Feminine,2000-05-27,21900000010,paciente010@exemplo.com,No,Keep,finished,2024-10-07,0,90,9,9,100.0,2024-09-28
+1012,Tatiana Cardoso Souza,Feminine,1968-03-22,21900000012,paciente012@exemplo.com,No,Keep,inactive,2026-06-24,0,90,11,5,45.5,2026-06-20
+1013,Helena Moreira Pereira,Feminine,2002-11-12,21900000013,paciente013@exemplo.com,No,Excellence,finished,2024-08-31,0,180,0,0,0.0,
+1014,Isabela Almeida Cardoso,Feminine,2005-11-02,(21) 90000-0014,,No,Start,finished,2025-04-17,0,30,11,9,81.8,2025-04-05
+1015,Tatiana Lima Santos,Feminine,1986-04-04,(21) 90000-0015,paciente015@exemplo.com,No,Keep,finished,2025-08-13,0,90,2,0,0.0,
+1016,diego barbosa pereira,Masculine,2006-06-26,21 00000016,paciente016@exemplo.com,Yes,Excellence,inactive,2024-12-06,0,180,2,0,0.0,
+1017,camila rocha souza,Feminine,1966-01-21,900000017,,No,Keep,inactive,2025-06-11,0,90,2,0,0.0,
+1019,Tatiana Dias Gomes,Feminine,1978-04-02,21900000019,paciente019@exemplo.com,No,Excellence,active,2028-03-10,490,180,9,2,22.2,2028-02-27
+1020,Felipe Barbosa Silva,Masculine,1965-03-03,21900000020,paciente020@exemplo.com,No,Keep,finished,2024-10-21,0,90,7,3,42.9,2024-10-20
+1021,Renata Teixeira Teixeira,Feminine,1993-06-09,(21) 90000-0021,paciente021@exemplo.com,No,Excellence,finished,2025-03-18,0,180,9,7,77.8,2025-03-04
+1025,Juliana Barbosa Cardoso,Feminine,2000-07-27,(21) 90000-0025,paciente025@exemplo.com,No,Keep,finished,2025-05-22,0,90,7,1,14.3,2025-05-03
+1026,Ana Costa Cardoso,Feminine,2004-03-18,(21) 90000-0026,paciente026@exemplo.com,No,Start,finished,2026-04-16,0,30,7,7,100.0,2026-04-07
+1028,Felipe Ribeiro Almeida,Masculine,1971-12-11,+55 21 900000028,paciente028@exemplo.com,Yes,Start,finished,2024-05-26,0,30,4,4,100.0,2024-05-08
+1029,tatiana lima gomes,Feminine,1989-06-10,+55 21 900000029,,No,Start,finished,2024-04-15,0,30,4,3,75.0,2024-04-07
+1031,Daniela Vieira Ribeiro,Feminine,,(21) 90000-0031,paciente031@exemplo.com,Yes,Start,finished,2026-02-26,0,30,11,1,9.1,2026-02-12
+1032,Helena Oliveira Ribeiro,Feminine,1964-11-11,21900000032,paciente032@exemplo.com,No,Keep,finished,2024-12-14,0,90,7,2,28.6,2024-12-12
+1033,Larissa Souza Dias,Feminine,1972-07-22,900000033,paciente033@exemplo.com,No,Excellence,finished,2026-08-19,0,180,7,6,85.7,2026-07-30
+1034,Helena Ribeiro Teixeira,Feminine,1998-11-11,21900000034,paciente034@exemplo.com,Yes,Start,finished,2024-10-12,0,30,10,4,40.0,2024-09-28
+1035,Camila Moreira Silva,Feminine,2002-11-20,(21) 90000-0035,,No,Keep,inactive,2025-02-13,0,90,8,3,37.5,2025-02-05
+1036,Tatiana Vieira Cardoso,Feminine,,21900000036,paciente036@exemplo.com,Yes,Start,inactive,2025-07-21,0,30,7,6,85.7,2025-07-18
+1037,Diego Ribeiro Lima,Masculine,1971-12-17,21900000037,paciente037@exemplo.com,Yes,Excellence,inactive,2024-12-12,0,180,9,4,44.4,2024-12-04
+1038,Mariana Rocha Vieira,Feminine,2006-09-14,+55 21 900000038,paciente038@exemplo.com,Yes,Keep,finished,2025-03-27,0,90,3,1,33.3,2025-03-17
+1039,Igor Silva Santos,Masculine,2000-04-09,21900000039,paciente039@exemplo.com,No,Keep,finished,2024-12-06,0,90,1,0,0.0,
+1040,Patrícia Dias Gomes,Feminine,1964-07-14,(21) 90000-0040,paciente040@exemplo.com,Yes,Start,finished,2024-03-16,0,30,9,3,33.3,2024-03-14
+1041,André Teixeira Pereira,Masculine,1990-01-12,(21) 90000-0041,paciente041@exemplo.com,Yes,Excellence,inactive,2025-12-25,0,180,10,9,90.0,2025-12-20
+1042,Isabela Martins Ribeiro,Feminine,1991-01-13,(21) 90000-0042,paciente042@exemplo.com,No,Start,finished,2025-12-10,0,30,7,4,57.1,2025-12-02
+1043,Ana Pereira Teixeira,Feminine,1996-11-01,(21) 90000-0043,paciente043@exemplo.com,No,Start,finished,2025-03-13,0,30,6,2,33.3,2025-03-08
+1044,Patrícia Martins Ribeiro,Feminine,1976-02-16,(21) 90000-0044,paciente044@exemplo.com,No,Keep,finished,2026-02-13,0,90,6,1,16.7,2026-02-07
+1045,henrique gomes almeida,Masculine,1999-03-08,(21) 90000-0045,paciente045@exemplo.com,No,Keep,active,2027-03-10,124,90,11,4,36.4,2027-02-24
+1046,Diego Ferreira Moreira,Masculine,1966-10-01,900000046,paciente046@exemplo.com,No,Start,finished,2025-06-07,0,30,0,0,0.0,
+1047,Henrique Costa Moreira,Masculine,2003-10-26,(21) 90000-0047,,Yes,Keep,inactive,2025-01-25,0,90,7,6,85.7,2025-01-08
+1049,Tatiana Rocha Ribeiro,Feminine,,(21) 90000-0049,paciente049@exemplo.com,No,Start,inactive,2024-07-25,0,30,7,1,14.3,2024-07-15
+1050,Patrícia Nunes Almeida,Feminine,1991-06-06,21900000050,paciente050@exemplo.com,No,Keep,inactive,2025-07-31,0,90,10,1,10.0,2025-07-29
+1051,Helena Cardoso Lima,Feminine,2006-07-16,21900000051,paciente051@exemplo.com,No,Excellence,finished,2026-08-20,0,180,0,0,0.0,
+1052,Patrícia Lima Moreira,Feminine,2002-10-12,21900000052,paciente052@exemplo.com,Yes,Excellence,active,2027-01-02,57,180,7,1,14.3,2026-12-29
+1053,juliana lima costa,Feminine,2006-04-11,(21) 90000-0053,paciente053@exemplo.com,No,Start,finished,2026-05-08,0,30,7,6,85.7,2026-04-23
+1054,Larissa Costa Gomes,Feminine,1978-04-12,(21) 90000-0054,paciente054@exemplo.com,Yes,Keep,active,2027-02-11,97,90,0,0,0.0,
+1055,Fernanda Santos Costa,Feminine,1960-10-10,21900000055,paciente055@exemplo.com,Yes,Keep,finished,2025-09-11,0,90,7,2,28.6,2025-09-10
+1056,Rafael Santos Cardoso,Masculine,1996-11-22,(21) 90000-0056,paciente056@exemplo.com,Yes,Keep,finished,2024-08-07,0,90,9,0,0.0,
+1057,Patrícia Rocha Rocha,Feminine,1979-10-14,(21) 90000-0057,paciente057@exemplo.com,Yes,Start,inactive,2024-12-08,0,30,1,1,100.0,2024-12-05
+1058,Camila Ferreira Almeida,Feminine,1986-08-23,21900000058,paciente058@exemplo.com,No,Start,finished,2024-06-27,0,30,12,3,25.0,2024-06-17
+1059,Juliana Teixeira Gomes,Feminine,1987-02-18,(21) 90000-0059,paciente059@exemplo.com,No,Start,finished,2025-12-20,0,30,12,3,25.0,2025-12-18
+1060,Larissa Rocha Costa,Feminine,1989-12-10,+55 21 900000060,,Yes,Start,finished,2026-11-01,0,45,2,1,50.0,2026-10-29
+1061,mariana vieira martins,Feminine,1961-02-08,900000061,,Yes,Excellence,active,2027-07-16,252,180,12,2,16.7,2027-07-16
+1062,Beatriz Ferreira Santos,Feminine,1993-11-15,21 00000062,paciente062@exemplo.com,No,Start,finished,2026-08-27,0,30,11,7,63.6,2026-08-11
+1063,Mariana Nunes Costa,Feminine,1970-06-14,+55 21 900000063,paciente063@exemplo.com,Yes,Keep,finished,2026-10-20,0,90,0,0,0.0,
+1064,daniela pereira silva,Feminine,1960-11-28,21900000064,paciente064@exemplo.com,Yes,Keep,finished,2024-09-27,0,90,3,1,33.3,2024-09-08
+1065,Gustavo Martins Souza,Masculine,1968-05-15,21 00000065,paciente065@exemplo.com,Yes,Keep,finished,2025-07-05,0,90,10,10,100.0,2025-07-01
+1066,Ana Souza Ribeiro,Feminine,1965-04-27,21 00000066,paciente066@exemplo.com,No,Keep,finished,2025-02-16,0,90,0,0,0.0,
+1067,Juliana Ribeiro Santos,Feminine,1990-04-15,21900000067,paciente067@exemplo.com,Yes,Start,finished,2026-09-22,0,30,11,0,0.0,
+1068,Rodrigo Nunes Silva,Masculine,1977-01-10,+55 21 900000068,,No,Keep,finished,2024-08-17,0,90,7,5,71.4,2024-08-10
+1070,fernanda santos barbosa,Feminine,1968-09-19,(21) 90000-0070,paciente070@exemplo.com,Yes,Excellence,finished,2025-07-24,0,180,6,6,100.0,2025-07-09
+1072,tatiana souza barbosa,Feminine,1999-02-08,21900000072,,No,Keep,finished,2025-06-12,0,90,9,7,77.8,2025-06-06
+1073,daniela rocha ferreira,Feminine,2004-05-01,(21) 90000-0073,paciente073@exemplo.com,No,Keep,finished,2025-07-21,0,90,11,9,81.8,2025-07-07
+1074,Gabriela Ferreira Ferreira,Feminine,,(21) 90000-0074,paciente074@exemplo.com,Yes,Keep,finished,2026-02-13,0,90,2,2,100.0,2026-02-11
+1075,Ana Rocha Moreira,Feminine,2003-09-06,(21) 90000-0075,,No,Keep,inactive,2026-09-26,0,90,9,7,77.8,2026-09-19
+1076,Patrícia Santos Costa,Feminine,1975-07-19,(21) 90000-0076,paciente076@exemplo.com,No,Start,inactive,2026-06-08,0,30,9,2,22.2,2026-06-07
+1077,Beatriz Vieira Santos,Feminine,1978-04-20,+55 21 900000077,paciente077@exemplo.com,Yes,Start,finished,2024-12-05,0,30,6,4,66.7,2024-11-21
+1078,Fernanda Costa Barbosa,Feminine,1979-08-02,21900000078,paciente078@exemplo.com,No,Keep,finished,2025-05-12,0,90,11,6,54.5,2025-05-05
+1079,Natália Silva Silva,Feminine,1977-03-09,21 00000079,,Yes,Keep,finished,2025-12-12,0,90,2,2,100.0,2025-11-28
+1080,Isabela Pereira Souza,Feminine,1983-02-26,(21) 90000-0080,paciente080@exemplo.com,Yes,Keep,finished,2025-02-20,0,90,12,5,41.7,2025-01-31
+1081,Natália Costa Lima,Feminine,1990-01-20,21 00000081,paciente081@exemplo.com,Yes,Start,finished,2026-04-14,0,30,12,4,33.3,2026-04-12
+1082,Renata Costa Dias,Feminine,1962-01-10,900000082,paciente082@exemplo.com,No,Keep,finished,2025-08-12,0,90,10,5,50.0,2025-07-29
+1083,Rodrigo Teixeira Dias,Masculine,1986-11-04,21 00000083,paciente083@exemplo.com,Yes,Keep,finished,2025-04-23,0,90,11,1,9.1,2025-04-13
+1084,Natália Costa Oliveira,Feminine,1994-11-12,(21) 90000-0084,paciente084@exemplo.com,Yes,Start,finished,2025-02-28,0,30,12,9,75.0,2025-02-18
+1085,Ana Barbosa Nunes,Feminine,1975-03-26,21900000085,paciente085@exemplo.com,Yes,Keep,finished,2026-08-14,0,90,0,0,0.0,
+1086,André Martins Dias,Masculine,1968-09-09,+55 21 900000086,paciente086@exemplo.com,Yes,Keep,finished,2024-08-27,0,90,4,3,75.0,2024-08-21
+1087,Gabriela Martins Barbosa,Feminine,1968-12-14,21900000087,paciente087@exemplo.com,Yes,Excellence,finished,2025-11-22,0,180,2,1,50.0,2025-11-14
+1089,Camila Nunes Vieira,Feminine,,(21) 90000-0089,paciente089@exemplo.com,Yes,Start,active,2026-11-16,10,30,8,0,0.0,
+1090,renata costa costa,Feminine,2001-11-25,21900000090,,Yes,Keep,finished,2025-11-17,0,90,4,1,25.0,2025-11-01
+1091,Daniela Nunes Ribeiro,Feminine,1980-11-09,(21) 90000-0091,paciente091@exemplo.com,No,Keep,finished,2025-08-08,0,90,12,5,41.7,2025-07-25
+1092,Pedro Dias Souza,Masculine,1963-10-18,21900000092,paciente092@exemplo.com,No,Start,finished,2025-07-25,0,30,12,4,33.3,2025-07-24
+1093,Bruno Moreira Vieira,Masculine,,21900000093,paciente093@exemplo.com,Yes,Start,inactive,2026-08-20,0,45,11,8,72.7,2026-08-15
+1094,Juliana Teixeira Lima,Feminine,1987-09-25,+55 21 900000094,paciente094@exemplo.com,Yes,Start,active,2026-11-18,12,30,7,4,57.1,2026-11-08
+1096,Helena Pereira Ribeiro,Feminine,1989-06-06,(21) 90000-0096,paciente096@exemplo.com,Yes,Excellence,active,2027-01-02,57,180,8,2,25.0,2026-12-21
+1097,Camila Martins Rocha,Feminine,2002-07-16,21900000097,paciente097@exemplo.com,No,Excellence,inactive,2026-08-29,0,180,2,0,0.0,
+1098,Tatiana Silva Moreira,Feminine,1962-04-13,900000098,paciente098@exemplo.com,No,Keep,finished,2024-09-12,0,90,12,9,75.0,2024-09-02
+1099,Daniela Almeida Santos,Feminine,2007-07-06,(21) 90000-0099,paciente099@exemplo.com,Yes,Keep,finished,2025-07-07,0,90,8,1,12.5,2025-06-23
+1100,Beatriz Ribeiro Almeida,Feminine,,(21) 90000-0100,paciente100@exemplo.com,No,Keep,finished,2025-12-23,0,90,9,8,88.9,2025-12-17
+1102,henrique nunes ferreira,Masculine,1964-09-21,(21) 90000-0102,paciente102@exemplo.com,Yes,Start,finished,2025-08-12,0,30,1,1,100.0,2025-08-01
+1103,Juliana Gomes Ferreira,Feminine,,+55 21 900000103,paciente103@exemplo.com,Yes,Keep,finished,2026-10-06,0,90,4,2,50.0,2026-09-30
+1104,mariana nunes dias,Feminine,1988-02-16,21900000104,paciente104@exemplo.com,No,Keep,finished,2026-04-22,0,90,7,4,57.1,2026-04-09
+1106,Bruno Rocha Teixeira,Masculine,2001-04-11,21900000106,paciente106@exemplo.com,No,Start,finished,2024-08-12,0,30,4,3,75.0,2024-08-10
+1107,Gabriela Barbosa Lima,Feminine,2005-08-15,21900000107,paciente107@exemplo.com,No,Excellence,finished,2026-10-20,0,180,6,5,83.3,2026-10-02
+1111,Larissa Costa Silva,Feminine,1994-12-17,(21) 90000-0111,paciente111@exemplo.com,No,Keep,inactive,2026-05-18,0,90,4,4,100.0,2026-04-30
+1112,Gabriela Rocha Barbosa,Feminine,1986-06-22,+55 21 900000112,,No,Start,inactive,2026-07-24,0,45,2,1,50.0,2026-07-21
+1113,Tatiana Gomes Oliveira,Feminine,2003-10-15,21900000113,paciente113@exemplo.com,No,Keep,finished,2025-12-20,0,90,11,10,90.9,2025-12-05
+1114,Eduardo Martins Barbosa,Masculine,2001-08-28,(21) 90000-0114,,No,Excellence,active,2027-10-25,353,180,5,4,80.0,2027-10-05
+1115,sofia silva dias,Feminine,1987-02-08,+55 21 900000115,,No,Keep,finished,2024-07-15,0,90,0,0,0.0,
+1116,Pedro Lima Almeida,Masculine,,+55 21 900000116,paciente116@exemplo.com,Yes,Keep,finished,2024-05-14,0,90,5,3,60.0,2024-05-05
+1117,Vinícius Rocha Vieira,Masculine,1960-02-01,(21) 90000-0117,,No,Start,inactive,2026-10-12,0,30,2,0,0.0,
+1118,Renata Vieira Rocha,Feminine,1964-02-27,21 00000118,paciente118@exemplo.com,Yes,Excellence,finished,2025-02-24,0,180,5,0,0.0,
+1119,Natália Lima Teixeira,Feminine,1986-03-22,+55 21 900000119,paciente119@exemplo.com,Yes,Start,inactive,2025-03-04,0,30,6,2,33.3,2025-02-28
+1120,Ana Pereira Santos,Feminine,1962-11-13,900000120,paciente120@exemplo.com,Yes,Keep,finished,2025-01-04,0,90,11,8,72.7,2024-12-22
+1121,Mariana Dias Barbosa,Feminine,1982-09-11,+55 21 900000121,paciente121@exemplo.com,Yes,Keep,finished,2026-08-23,0,90,0,0,0.0,
+1122,Sofia Barbosa Moreira,Feminine,1972-01-26,(21) 90000-0122,paciente122@exemplo.com,Yes,Excellence,inactive,2026-07-11,0,180,2,2,100.0,2026-07-04
+1124,Gabriela Santos Santos,Feminine,1983-09-09,+55 21 900000124,paciente124@exemplo.com,Yes,Start,finished,2024-07-30,0,30,3,1,33.3,2024-07-28
+1125,Mariana Moreira Moreira,Feminine,1988-10-23,21900000125,paciente125@exemplo.com,Yes,Start,finished,2025-09-06,0,30,1,0,0.0,
+1126,Igor Barbosa Cardoso,Masculine,,(21) 90000-0126,,Yes,Keep,finished,2026-05-10,0,90,0,0,0.0,
+1127,Bruno Dias Cardoso,Masculine,,(21) 90000-0127,,No,Keep,finished,2024-11-26,0,90,1,0,0.0,
+1128,camila teixeira dias,Feminine,1993-06-13,(21) 90000-0128,paciente128@exemplo.com,Yes,Keep,finished,2024-10-18,0,90,8,1,12.5,2024-10-02
+1129,juliana martins rocha,Feminine,1973-10-10,+55 21 900000129,,Yes,Start,finished,2024-06-02,0,30,12,8,66.7,2024-05-17
+1130,camila nunes oliveira,Feminine,2005-02-18,21900000130,,No,Excellence,finished,2025-04-06,0,180,7,1,14.3,2025-03-24
+1132,Patrícia Santos Silva,Feminine,1986-07-27,21900000132,paciente132@exemplo.com,No,Start,inactive,2025-10-21,0,30,5,0,0.0,
+1134,Larissa Cardoso Martins,Feminine,1972-11-18,(21) 90000-0134,paciente134@exemplo.com,No,Keep,active,2026-12-23,47,90,0,0,0.0,
+1135,Gabriela Vieira Vieira,Feminine,1981-10-02,+55 21 900000135,paciente135@exemplo.com,Yes,Keep,inactive,2025-07-02,0,90,3,3,100.0,2025-06-30
+1136,rodrigo vieira almeida,Masculine,1991-11-18,(21) 90000-0136,,Yes,Excellence,active,2027-03-31,145,180,5,1,20.0,2027-03-19
+1139,Rodrigo Lima Ferreira,Masculine,1980-10-24,(21) 90000-0139,paciente139@exemplo.com,Yes,Keep,finished,2026-03-17,0,90,11,9,81.8,2026-03-15
+1140,Patrícia Silva Rocha,Feminine,1975-04-19,(21) 90000-0140,paciente140@exemplo.com,No,Keep,finished,2025-10-31,0,90,6,0,0.0,
+1141,Daniela Ribeiro Dias,Feminine,1976-12-12,+55 21 900000141,paciente141@exemplo.com,No,Start,inactive,2025-04-06,0,30,12,10,83.3,2025-03-22
+1142,Sofia Souza Martins,Feminine,1999-11-20,(21) 90000-0142,,Yes,Keep,finished,2026-01-10,0,90,4,3,75.0,2026-01-10
+1143,Patrícia Silva Barbosa,Feminine,1962-01-05,+55 21 900000143,,No,Start,finished,2026-09-03,0,45,2,1,50.0,2026-08-15
+1144,Marcelo Ferreira Pereira,Masculine,1999-12-27,(21) 90000-0144,paciente144@exemplo.com,No,Keep,active,2026-12-22,46,90,8,7,87.5,2026-12-07
+1145,Mariana Costa Ribeiro,Feminine,1997-05-26,21 00000145,,No,Keep,inactive,2026-05-03,0,90,8,0,0.0,
+1146,Henrique Barbosa Teixeira,Masculine,1990-03-17,21900000146,paciente146@exemplo.com,No,Excellence,finished,2025-08-24,0,180,6,3,50.0,2025-08-19
+1147,Helena Almeida Rocha,Feminine,1980-07-05,(21) 90000-0147,paciente147@exemplo.com,No,Keep,active,2027-01-18,73,90,6,3,50.0,2027-01-01
+1148,fernanda silva gomes,Feminine,1995-06-22,21900000148,paciente148@exemplo.com,No,Keep,finished,2024-12-02,0,90,2,2,100.0,2024-11-13
+1149,Igor Vieira Santos,Masculine,1972-04-09,21900000149,paciente149@exemplo.com,Yes,Keep,finished,2026-01-30,0,90,0,0,0.0,
+1150,Natália Souza Martins,Feminine,1978-02-19,+55 21 900000150,paciente150@exemplo.com,Yes,Keep,finished,2026-02-12,0,90,5,2,40.0,2026-02-05
+1151,camila oliveira rocha,Feminine,2001-05-24,21900000151,paciente151@exemplo.com,No,Start,inactive,2026-05-26,0,30,1,1,100.0,2026-05-25
+1152,Isabela Lima Barbosa,Feminine,2002-09-08,21900000152,paciente152@exemplo.com,No,Keep,inactive,2025-09-25,0,90,4,0,0.0,
+1153,Gabriela Ribeiro Santos,Feminine,1990-11-07,+55 21 900000153,paciente153@exemplo.com,No,Keep,finished,2025-12-05,0,90,7,1,14.3,2025-11-19
+1155,Sofia Souza Silva,Feminine,1991-03-28,21900000155,paciente155@exemplo.com,Yes,Excellence,finished,2024-09-30,0,180,6,1,16.7,2024-09-13
+1156,Mariana Moreira Teixeira,Feminine,2003-04-06,21900000156,paciente156@exemplo.com,Yes,Start,inactive,2025-11-24,0,30,6,6,100.0,2025-11-06
+1157,Fernanda Santos Nunes,Feminine,1975-01-09,(21) 90000-0157,paciente157@exemplo.com,Yes,Start,finished,2026-01-19,0,30,8,7,87.5,2025-12-30
+1158,Natália Lima Barbosa,Feminine,2002-02-15,(21) 90000-0158,paciente158@exemplo.com,No,Excellence,active,2027-03-31,145,180,6,5,83.3,2027-03-23
+1159,Isabela Dias Santos,Feminine,1969-08-24,900000159,paciente159@exemplo.com,Yes,Keep,active,2027-01-26,81,90,8,2,25.0,2027-01-08
+1160,Henrique Vieira Cardoso,Masculine,,+55 21 900000160,paciente160@exemplo.com,Yes,Keep,finished,2026-05-11,0,90,12,9,75.0,2026-04-25
+1161,Fernanda Ferreira Nunes,Feminine,1993-08-04,+55 21 900000161,paciente161@exemplo.com,Yes,Start,finished,2025-03-02,0,30,10,4,40.0,2025-02-10
+1162,Renata Rocha Teixeira,Feminine,1963-09-15,+55 21 900000162,paciente162@exemplo.com,Yes,Start,finished,2024-06-09,0,30,2,1,50.0,2024-06-06
+1163,Renata Oliveira Cardoso,Feminine,1994-01-03,900000163,paciente163@exemplo.com,Yes,Start,inactive,2025-05-25,0,30,7,7,100.0,2025-05-19
+1164,rodrigo oliveira pereira,Masculine,1988-07-13,(21) 90000-0164,,No,Start,inactive,2026-04-03,0,30,4,4,100.0,2026-04-03
+1165,Fernanda Lima Almeida,Feminine,2008-01-10,21900000165,paciente165@exemplo.com,Yes,Start,finished,2025-07-29,0,30,1,1,100.0,2025-07-17
+1166,Helena Costa Barbosa,Feminine,2002-07-20,+55 21 900000166,,No,Excellence,finished,2024-09-03,0,180,8,1,12.5,2024-08-19
+1169,Renata Souza Santos,Feminine,1963-06-21,+55 21 900000169,paciente169@exemplo.com,Yes,Excellence,inactive,2026-09-16,0,180,5,2,40.0,2026-09-03
+1170,Vinícius Lima Lima,Masculine,1979-12-05,+55 21 900000170,,No,Start,inactive,2026-05-17,0,30,7,6,85.7,2026-04-30
+1171,Helena Nunes Cardoso,Feminine,1988-06-03,21900000171,,Yes,Keep,finished,2024-06-23,0,90,10,3,30.0,2024-06-12
+1172,Helena Santos Gomes,Feminine,1981-05-01,(21) 90000-0172,paciente172@exemplo.com,Yes,Keep,finished,2026-11-02,0,90,9,0,0.0,
+1174,Tatiana Nunes Gomes,Feminine,1983-06-14,(21) 90000-0174,,Yes,Keep,finished,2026-05-17,0,90,10,5,50.0,2026-05-03
+1175,lucas dias gomes,Masculine,1981-04-13,21900000175,paciente175@exemplo.com,Yes,Keep,active,2027-08-29,296,90,4,2,50.0,2027-08-20
+1177,Camila Barbosa Almeida,Feminine,1986-03-27,21900000177,paciente177@exemplo.com,No,Start,finished,2024-05-21,0,30,12,12,100.0,2024-05-19
+1178,Tatiana Santos Almeida,Feminine,1960-09-18,(21) 90000-0178,paciente178@exemplo.com,Yes,Excellence,active,2027-03-20,134,180,6,6,100.0,2027-03-15
+1180,Isabela Lima Moreira,Feminine,2003-02-21,900000180,paciente180@exemplo.com,Yes,Keep,finished,2024-04-28,0,90,11,8,72.7,2024-04-27
+1183,Patrícia Cardoso Moreira,Feminine,1970-10-08,21900000183,,No,Keep,inactive,2026-03-09,0,90,2,0,0.0,
+1184,Natália Barbosa Costa,Feminine,1987-04-27,(21) 90000-0184,paciente184@exemplo.com,No,Keep,finished,2025-04-12,0,90,12,10,83.3,2025-04-02
+1185,patricia ribeiro ferreira,Feminine,2003-10-22,(21) 90000-0185,paciente185@exemplo.com,Yes,Keep,finished,2026-01-25,0,90,5,2,40.0,2026-01-13
+1186,Fernanda Pereira Nunes,Feminine,,(21) 90000-0186,paciente186@exemplo.com,Yes,Excellence,inactive,2026-03-21,0,180,8,3,37.5,2026-03-13
+1187,renata costa almeida,Feminine,,(21) 90000-0187,paciente187@exemplo.com,Yes,Keep,finished,2026-02-04,0,90,9,4,44.4,2026-01-17
+1188,isabela teixeira silva,Feminine,1970-11-13,(21) 90000-0188,paciente188@exemplo.com,Yes,Start,inactive,2025-08-18,0,30,7,7,100.0,2025-08-10
+1189,Camila Oliveira Martins,Feminine,1975-12-21,21900000189,paciente189@exemplo.com,Yes,Start,finished,2025-02-24,0,30,3,1,33.3,2025-02-11
+1190,Rafael Nunes Rocha,Masculine,1981-07-27,+55 21 900000190,paciente190@exemplo.com,No,Start,inactive,2026-03-17,0,30,3,3,100.0,2026-03-15
+1191,Gabriela Pereira Nunes,Feminine,1978-12-23,21900000191,,No,Start,inactive,2024-06-11,0,30,6,5,83.3,2024-05-23
+1192,Helena Teixeira Souza,Feminine,,21900000192,,Yes,Start,finished,2026-02-08,0,30,3,3,100.0,2026-02-08
+1193,renata santos dias,Feminine,2000-05-08,(21) 90000-0193,paciente193@exemplo.com,Yes,Start,inactive,2025-11-21,0,30,10,5,50.0,2025-11-03
+1194,renata souza barbosa,Feminine,1983-12-26,21900000194,paciente194@exemplo.com,No,Start,inactive,2024-03-13,0,30,7,2,28.6,2024-03-09
+1195,Beatriz Teixeira Pereira,Feminine,2008-06-26,21900000195,paciente195@exemplo.com,No,Start,finished,2025-04-05,0,30,4,2,50.0,2025-03-17
+1197,Fernanda Oliveira Moreira,Feminine,1981-08-26,(21) 90000-0197,paciente197@exemplo.com,Yes,Excellence,finished,2026-01-27,0,180,2,1,50.0,2026-01-10
+1198,daniela almeida nunes,Feminine,2001-02-22,+55 21 900000198,,Yes,Excellence,active,2027-09-17,315,180,0,0,0.0,
+1199,Sofia Lima Pereira,Feminine,,21900000199,paciente199@exemplo.com,No,Keep,finished,2025-06-09,0,90,7,0,0.0,
+1200,Helena Gomes Martins,Feminine,2008-12-26,+55 21 900000200,paciente200@exemplo.com,No,Keep,active,2026-11-11,5,90,2,0,0.0,
+1201,Tatiana Silva Nunes,Feminine,,(21) 90000-0201,paciente201@exemplo.com,Yes,Start,inactive,2026-01-23,0,30,9,9,100.0,2026-01-07
+1202,Carlos Dias Nunes,Masculine,1967-04-10,(21) 90000-0202,paciente202@exemplo.com,Yes,Keep,finished,2024-12-16,0,90,12,7,58.3,2024-12-07
+1203,tatiana souza ferreira,Feminine,1995-03-16,(21) 90000-0203,paciente203@exemplo.com,No,Keep,finished,2025-11-29,0,90,1,1,100.0,2025-11-15
+1204,Patrícia Souza Silva,Feminine,2001-08-14,+55 21 900000204,paciente204@exemplo.com,Yes,Keep,finished,2025-12-08,0,90,0,0,0.0,
+1205,Beatriz Martins Lima,Feminine,1994-05-06,+55 21 900000205,paciente205@exemplo.com,No,Start,finished,2025-10-03,0,30,12,0,0.0,
+1206,natalia souza barbosa,Feminine,2008-12-15,21900000206,,No,Start,inactive,2024-10-29,0,30,6,0,0.0,
+1207,Thiago Martins Oliveira,Masculine,1965-08-28,900000207,paciente207@exemplo.com,No,Excellence,inactive,2025-02-27,0,180,2,0,0.0,
+1208,renata ferreira vieira,Feminine,1968-04-27,(21) 90000-0208,paciente208@exemplo.com,No,Excellence,finished,2026-01-05,0,180,5,4,80.0,2025-12-21
+1209,Larissa Teixeira Martins,Feminine,1992-11-27,(21) 90000-0209,,No,Start,inactive,2026-01-27,0,30,12,5,41.7,2026-01-25
+1210,Henrique Dias Nunes,Masculine,,21900000210,paciente210@exemplo.com,Yes,Start,finished,2025-12-21,0,30,10,10,100.0,2025-12-12
+1211,Carlos Pereira Silva,Masculine,2007-05-23,900000211,paciente211@exemplo.com,Yes,Keep,finished,2026-02-26,0,90,2,0,0.0,
+1212,Sofia Oliveira Cardoso,Feminine,1994-07-07,900000212,,No,Keep,finished,2025-10-02,0,90,0,0,0.0,
+1213,Tatiana Nunes Barbosa,Feminine,1962-02-21,+55 21 900000213,paciente213@exemplo.com,No,Keep,finished,2025-08-21,0,90,9,1,11.1,2025-08-16
+1214,Gustavo Dias Moreira,Masculine,1970-05-03,21900000214,paciente214@exemplo.com,No,Excellence,finished,2026-03-01,0,180,11,4,36.4,2026-02-10
+1215,Isabela Ribeiro Cardoso,Feminine,2005-02-01,(21) 90000-0215,paciente215@exemplo.com,No,Excellence,active,2028-02-22,473,180,12,2,16.7,2028-02-19
+1216,Daniela Ribeiro Dias,Feminine,1990-02-08,(21) 90000-0216,paciente216@exemplo.com,No,Keep,finished,2024-04-11,0,90,2,2,100.0,2024-04-02
+1218,Sofia Gomes Cardoso,Feminine,1966-03-25,(21) 90000-0218,paciente218@exemplo.com,Yes,Keep,finished,2026-03-30,0,90,11,10,90.9,2026-03-26
+1219,Isabela Souza Vieira,Feminine,1998-12-20,(21) 90000-0219,,Yes,Start,finished,2025-02-23,0,30,3,0,0.0,
+1220,Helena Pereira Moreira,Feminine,2001-01-26,21 00000220,,No,Keep,finished,2026-01-23,0,90,1,1,100.0,2026-01-23
+1222,camila almeida martins,Feminine,1973-01-02,900000222,paciente222@exemplo.com,Yes,Start,finished,2025-11-19,0,30,7,7,100.0,2025-11-13
+1223,Fernanda Martins Cardoso,Feminine,1979-02-17,900000223,,No,Start,finished,2024-07-25,0,30,10,6,60.0,2024-07-24
+1224,Camila Moreira Ribeiro,Feminine,2006-04-02,(21) 90000-0224,,Yes,Keep,finished,2024-12-01,0,90,10,7,70.0,2024-11-18
+1225,gabriela costa almeida,Feminine,2005-03-23,(21) 90000-0225,paciente225@exemplo.com,No,Keep,inactive,2025-10-11,0,90,6,3,50.0,2025-09-27
+1226,Juliana Costa Almeida,Feminine,1981-07-09,21900000226,paciente226@exemplo.com,Yes,Keep,active,2026-11-14,8,90,11,3,27.3,2026-10-27
+1227,Gabriela Oliveira Ferreira,Feminine,1976-02-19,+55 21 900000227,paciente227@exemplo.com,No,Excellence,active,2028-06-01,573,180,11,10,90.9,2028-05-19
+1229,Camila Teixeira Oliveira,Feminine,1967-09-22,21 00000229,paciente229@exemplo.com,Yes,Excellence,inactive,2026-06-11,0,180,12,2,16.7,2026-05-27
+1231,Henrique Dias Almeida,Masculine,1986-01-08,21900000231,paciente231@exemplo.com,Yes,Start,finished,2024-10-19,0,30,12,6,50.0,2024-10-13
+1233,camila teixeira costa,Feminine,1992-03-21,+55 21 900000233,paciente233@exemplo.com,Yes,Keep,finished,2026-04-22,0,90,10,2,20.0,2026-04-20
+1234,Mariana Pereira Nunes,Feminine,1980-08-09,(21) 90000-0234,,No,Keep,finished,2025-04-20,0,90,3,3,100.0,2025-04-19
+1235,Mariana Ribeiro Costa,Feminine,1994-06-25,(21) 90000-0235,paciente235@exemplo.com,Yes,Keep,finished,2026-02-18,0,90,11,8,72.7,2026-02-04
+1238,Patrícia Oliveira Cardoso,Feminine,1997-10-09,900000238,paciente238@exemplo.com,Yes,Excellence,inactive,2026-02-13,0,180,9,1,11.1,2026-02-08
+1239,Marcelo Costa Barbosa,Masculine,1989-01-06,900000239,paciente239@exemplo.com,No,Keep,active,2027-04-02,147,90,2,2,100.0,2027-03-30
+1240,Gabriela Martins Martins,Feminine,1988-03-02,21900000240,paciente240@exemplo.com,Yes,Start,finished,2026-04-24,0,30,3,3,100.0,2026-04-17
+1241,patricia dias ribeiro,Feminine,1972-11-26,21900000241,paciente241@exemplo.com,No,Excellence,active,2027-04-26,171,180,8,2,25.0,2027-04-15
+1242,Tatiana Oliveira Teixeira,Feminine,1992-06-13,(21) 90000-0242,paciente242@exemplo.com,No,Keep,inactive,2026-06-03,0,90,6,6,100.0,2026-05-21
+1244,Gabriela Ferreira Lima,Feminine,1997-06-26,+55 21 900000244,paciente244@exemplo.com,Yes,Excellence,active,2027-08-02,269,180,5,0,0.0,
+1245,Helena Santos Souza,Feminine,1979-03-16,(21) 90000-0245,paciente245@exemplo.com,Yes,Start,inactive,2026-04-28,0,30,6,0,0.0,
+1246,Fernanda Nunes Ferreira,Feminine,,(21) 90000-0246,paciente246@exemplo.com,No,Excellence,inactive,2026-10-19,0,180,12,10,83.3,2026-10-07
+1247,Patrícia Teixeira Costa,Feminine,1981-05-11,(21) 90000-0247,paciente247@exemplo.com,No,Excellence,active,2027-04-26,171,180,11,11,100.0,2027-04-10
+1248,Pedro Lima Teixeira,Masculine,1971-07-10,+55 21 900000248,paciente248@exemplo.com,No,Keep,finished,2025-06-24,0,90,3,3,100.0,2025-06-18
+1249,Bruno Ferreira Vieira,Masculine,1980-10-08,21900000249,paciente249@exemplo.com,No,Excellence,finished,2025-08-25,0,180,11,11,100.0,2025-08-19
+1250,camila nunes rocha,Feminine,1960-05-07,(21) 90000-0250,paciente250@exemplo.com,No,Start,finished,2025-12-10,0,30,10,2,20.0,2025-12-03
+1251,Felipe Ribeiro Santos,Masculine,1984-06-18,(21) 90000-0251,,No,Excellence,active,2028-02-22,473,180,8,1,12.5,2028-02-02
+1253,Tatiana Almeida Ribeiro,Feminine,2001-03-20,21 00000253,paciente253@exemplo.com,No,Keep,finished,2024-06-08,0,90,1,1,100.0,2024-05-29
+1254,Igor Moreira Moreira,Masculine,1975-02-02,(21) 90000-0254,paciente254@exemplo.com,No,Excellence,inactive,2026-02-25,0,180,10,10,100.0,2026-02-16
+1255,vinicius gomes costa,Masculine,1961-04-06,21900000255,,Yes,Start,finished,2025-12-27,0,30,8,3,37.5,2025-12-16
+1256,igor cardoso souza,Masculine,1984-03-12,21 00000256,paciente256@exemplo.com,No,Keep,inactive,2025-10-16,0,90,1,0,0.0,
+1257,Beatriz Dias Costa,Feminine,1965-11-12,+55 21 900000257,paciente257@exemplo.com,No,Start,finished,2026-03-06,0,30,9,8,88.9,2026-02-16
+1258,Tatiana Teixeira Lima,Feminine,1990-05-03,(21) 90000-0258,,Yes,Keep,finished,2025-06-25,0,90,7,6,85.7,2025-06-10
+1259,Daniela Rocha Ferreira,Feminine,1970-04-26,(21) 90000-0259,paciente259@exemplo.com,Yes,Keep,finished,2025-12-13,0,90,8,1,12.5,2025-12-08
+1260,juliana nunes cardoso,Feminine,1965-07-18,(21) 90000-0260,paciente260@exemplo.com,No,Excellence,active,2027-06-29,235,180,1,1,100.0,2027-06-28
+1261,Renata Costa Ribeiro,Feminine,1969-03-19,21900000261,paciente261@exemplo.com,Yes,Keep,inactive,2025-02-20,0,90,4,2,50.0,2025-02-02
+1262,pedro ribeiro martins,Masculine,1984-11-16,21900000262,paciente262@exemplo.com,Yes,Keep,finished,2024-12-09,0,90,11,7,63.6,2024-12-08
+1263,Patrícia Nunes Lima,Feminine,1963-12-16,900000263,,Yes,Keep,finished,2024-07-12,0,90,5,3,60.0,2024-07-08
+1264,daniela lima dias,Feminine,1979-12-15,+55 21 900000264,paciente264@exemplo.com,Yes,Keep,active,2027-03-01,115,90,10,7,70.0,2027-02-10
+1265,rodrigo santos silva,Masculine,1983-01-17,+55 21 900000265,paciente265@exemplo.com,No,Keep,inactive,2026-09-16,0,90,5,4,80.0,2026-09-08
+1266,Gabriela Gomes Gomes,Feminine,1963-04-02,21900000266,,Yes,Keep,active,2026-11-14,8,90,9,4,44.4,2026-11-08
+1267,daniela almeida lima,Feminine,1983-08-20,21900000267,,Yes,Excellence,finished,2026-07-24,0,180,9,8,88.9,2026-07-21
+1268,Camila Moreira Almeida,Feminine,1984-01-06,21 00000268,paciente268@exemplo.com,No,Keep,finished,2025-03-08,0,90,12,3,25.0,2025-03-06
+1269,Ana Almeida Santos,Feminine,1968-11-06,21900000269,paciente269@exemplo.com,Yes,Excellence,finished,2026-02-25,0,180,7,0,0.0,
+1271,Pedro Souza Vieira,Masculine,1998-05-10,+55 21 900000271,paciente271@exemplo.com,Yes,Excellence,finished,2026-06-29,0,180,1,0,0.0,
+1272,larissa gomes dias,Feminine,1993-04-02,+55 21 900000272,,No,Start,finished,2026-06-23,0,30,5,1,20.0,2026-06-20
+1273,Larissa Martins Ribeiro,Feminine,1985-07-24,(21) 90000-0273,paciente273@exemplo.com,Yes,Start,active,2027-02-06,92,45,1,0,0.0,
+1274,Tatiana Oliveira Silva,Feminine,1979-03-27,21900000274,paciente274@exemplo.com,No,Keep,finished,2025-04-21,0,90,0,0,0.0,
+1277,Sofia Dias Nunes,Feminine,2005-03-25,(21) 90000-0277,paciente277@exemplo.com,Yes,Start,inactive,2024-04-21,0,30,4,4,100.0,2024-04-04
+1278,Felipe Teixeira Ferreira,Masculine,1991-02-05,21900000278,paciente278@exemplo.com,Yes,Keep,finished,2025-08-18,0,90,1,0,0.0,
+1279,natalia almeida nunes,Feminine,2008-09-07,(21) 90000-0279,paciente279@exemplo.com,No,Excellence,active,2028-03-29,509,180,8,7,87.5,2028-03-09
+1280,Larissa Ferreira Cardoso,Feminine,1962-05-10,21900000280,paciente280@exemplo.com,No,Excellence,inactive,2026-09-18,0,180,4,4,100.0,2026-08-29
+1281,Pedro Gomes Ferreira,Masculine,1985-01-08,(21) 90000-0281,,Yes,Start,finished,2024-11-04,0,30,8,1,12.5,2024-10-31
+1282,Beatriz Pereira Martins,Feminine,,21900000282,paciente282@exemplo.com,No,Keep,finished,2025-05-06,0,90,8,5,62.5,2025-04-22
+1283,daniela souza martins,Feminine,1990-12-05,(21) 90000-0283,paciente283@exemplo.com,Yes,Start,finished,2024-05-01,0,30,9,5,55.6,2024-04-12
+1284,Fernanda Ribeiro Costa,Feminine,1992-12-20,(21) 90000-0284,paciente284@exemplo.com,Yes,Keep,finished,2024-12-17,0,90,11,11,100.0,2024-11-27
+1285,Helena Oliveira Ribeiro,Feminine,1978-03-02,21900000285,,No,Keep,inactive,2024-05-08,0,90,10,7,70.0,2024-04-19
+1286,Tatiana Dias Cardoso,Feminine,1992-02-24,+55 21 900000286,,No,Keep,active,2026-11-12,6,90,12,11,91.7,2026-11-06
+1287,bruno moreira oliveira,Masculine,2003-06-14,+55 21 900000287,paciente287@exemplo.com,No,Keep,inactive,2024-10-08,0,90,10,5,50.0,2024-10-01
+1288,sofia vieira martins,Feminine,,+55 21 900000288,paciente288@exemplo.com,No,Start,finished,2025-08-28,0,30,7,3,42.9,2025-08-25
+1289,rodrigo ferreira costa,Masculine,1968-12-24,(21) 90000-0289,,Yes,Excellence,finished,2025-01-31,0,180,3,1,33.3,2025-01-27
+1290,patricia oliveira vieira,Feminine,1961-11-27,+55 21 900000290,,No,Start,inactive,2026-02-20,0,30,11,4,36.4,2026-02-03
+1291,Mariana Almeida Silva,Feminine,2007-10-24,21900000291,,No,Excellence,active,2028-09-09,673,180,10,10,100.0,2028-08-27
+1292,Natália Pereira Dias,Feminine,1995-10-02,(21) 90000-0292,,Yes,Excellence,finished,2026-05-15,0,180,7,7,100.0,2026-05-14
+1293,Juliana Barbosa Silva,Feminine,1974-09-21,(21) 90000-0293,,Yes,Start,finished,2024-08-07,0,30,6,1,16.7,2024-07-31
+1294,mariana costa santos,Feminine,2007-11-01,(21) 90000-0294,paciente294@exemplo.com,Yes,Excellence,active,2028-07-29,631,180,3,1,33.3,2028-07-29
+1295,Larissa Silva Souza,Feminine,1973-11-22,21900000295,paciente295@exemplo.com,No,Keep,finished,2025-04-26,0,90,5,2,40.0,2025-04-25
+1296,Tatiana Oliveira Rocha,Feminine,1967-02-25,21900000296,paciente296@exemplo.com,Yes,Excellence,active,2027-05-05,180,180,1,1,100.0,2027-05-03
+1297,Beatriz Ferreira Santos,Feminine,1968-12-24,+55 21 900000297,paciente297@exemplo.com,No,Excellence,inactive,2026-08-04,0,180,11,1,9.1,2026-08-03
+1298,Helena Nunes Costa,Feminine,2008-07-02,900000298,,Yes,Start,finished,2026-05-06,0,30,0,0,0.0,
+1299,tatiana almeida silva,Feminine,2007-01-18,900000299,,No,Keep,finished,2026-03-08,0,90,10,9,90.0,2026-02-17
+1300,Fernanda Costa Pereira,Feminine,2002-10-20,21 00000300,paciente300@exemplo.com,Yes,Keep,finished,2025-11-26,0,90,0,0,0.0,
+1301,Mariana Moreira Rocha,Feminine,1968-03-14,21900000301,,No,Start,inactive,2026-07-10,0,30,9,2,22.2,2026-06-25
+1302,gustavo gomes gomes,Masculine,1999-12-10,+55 21 900000302,,No,Keep,finished,2025-04-04,0,90,0,0,0.0,
+1304,Ana Silva Costa,Feminine,1961-07-05,(21) 90000-0304,paciente304@exemplo.com,Yes,Start,finished,2025-12-22,0,30,4,4,100.0,2025-12-06
+1305,Beatriz Moreira Gomes,Feminine,2008-09-02,(21) 90000-0305,paciente305@exemplo.com,Yes,Keep,finished,2026-10-10,0,90,8,0,0.0,
+1307,Isabela Oliveira Teixeira,Feminine,,(21) 90000-0307,paciente307@exemplo.com,No,Keep,finished,2024-12-07,0,90,10,7,70.0,2024-11-19
+1308,Diego Pereira Barbosa,Masculine,1987-05-18,(21) 90000-0308,paciente308@exemplo.com,Yes,Keep,finished,2025-07-24,0,90,2,0,0.0,
+1309,Mariana Vieira Barbosa,Feminine,2000-10-27,21900000309,paciente309@exemplo.com,No,Keep,active,2026-12-30,54,90,11,3,27.3,2026-12-20
+1310,gabriela silva cardoso,Feminine,1992-03-14,21900000310,paciente310@exemplo.com,Yes,Excellence,finished,2025-08-18,0,180,0,0,0.0,
+1311,tatiana souza almeida,Feminine,1967-11-12,21900000311,,Yes,Start,finished,2024-09-24,0,30,12,5,41.7,2024-09-15
+1312,juliana souza moreira,Feminine,1961-09-27,+55 21 900000312,paciente312@exemplo.com,Yes,Start,finished,2026-08-23,0,45,2,0,0.0,
+1313,Camila Costa Ferreira,Feminine,1994-09-01,21900000313,paciente313@exemplo.com,Yes,Start,active,2026-12-01,25,30,1,1,100.0,2026-11-20
+1314,Renata Cardoso Dias,Feminine,1961-08-23,(21) 90000-0314,paciente314@exemplo.com,Yes,Excellence,inactive,2026-02-03,0,180,9,6,66.7,2026-01-30
+1315,Juliana Ribeiro Pereira,Feminine,1988-11-13,21900000315,paciente315@exemplo.com,Yes,Excellence,active,2027-01-02,57,180,11,5,45.5,2027-01-01
+1316,Bruno Cardoso Oliveira,Masculine,1992-02-10,+55 21 900000316,paciente316@exemplo.com,No,Keep,finished,2024-07-01,0,90,12,2,16.7,2024-06-27
+1318,Pedro Almeida Souza,Masculine,1995-03-04,(21) 90000-0318,paciente318@exemplo.com,Yes,Excellence,active,2026-12-13,37,180,3,0,0.0,
+1319,Pedro Gomes Ribeiro,Masculine,2001-09-05,(21) 90000-0319,paciente319@exemplo.com,No,Start,finished,2025-05-19,0,30,8,5,62.5,2025-05-08
