@@ -108,4 +108,4 @@ Databricks (Unity Catalog, Volumes, Delta tables) · PySpark · pandas · SQL (C
 
 ## Autor
 
-**João Gabriel** — nutricionista e analista de dados.
+**João Gabriel**
