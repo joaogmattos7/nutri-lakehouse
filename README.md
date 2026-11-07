@@ -1,4 +1,4 @@
-# Nutri Lakehouse — retenção e renovação de pacientes
+# Nutri Datas -> Estruturamento e melhora de dados.
 
 Pipeline de dados em **Databricks** (arquitetura medalhão bronze → silver → gold) que construí para o meu consultório de nutrição. O pipeline une os dois sistemas que uso no dia a dia, limpa e deduplica os cadastros, e responde perguntas de negócio:
 
